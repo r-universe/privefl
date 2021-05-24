@@ -12,8 +12,7 @@
     "oncran": true
   },
   {
-    "package": "bigsnpr",
-    "oncran": true
+    "package": "bigsnpr"
   },
   {
     "package": "bigsparser",
