@@ -12,9 +12,6 @@
     "oncran": true
   },
   {
-    "package": "bigsnpr"
-  },
-  {
     "package": "bigsparser",
     "oncran": true
   },
