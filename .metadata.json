@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "bigsnpr",
+    "oncran": true
+  },
+  {
     "package": "bigsparser",
     "oncran": true
   },
