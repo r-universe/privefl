@@ -2,6 +2,12 @@
   {
     "package": "rmio",
     "url": "https://github.com/privefl/rmio",
+    "via": ["bigsparser"],
+    "from": "bigsparser"
+  },
+  {
+    "package": "rmio",
+    "url": "https://github.com/privefl/rmio",
     "via": ["bigstatsr"],
     "from": "bigstatsr"
   }
