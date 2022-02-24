@@ -1,17 +1,5 @@
 [
   {
-    "package": "bigsparser",
-    "url": "https://github.com/privefl/bigsparser",
-    "via": ["bigsnpr"],
-    "from": "bigsnpr"
-  },
-  {
-    "package": "rmio",
-    "url": "https://github.com/privefl/rmio",
-    "via": ["bigsnpr", "bigsparser"],
-    "from": "bigsnpr"
-  },
-  {
     "package": "rmio",
     "url": "https://github.com/privefl/rmio",
     "via": ["bigstatsr"],
