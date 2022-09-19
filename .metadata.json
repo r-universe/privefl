@@ -32,10 +32,6 @@
     "oncran": true
   },
   {
-    "package": "mmapcharr",
-    "oncran": true
-  },
-  {
     "package": "primefactr",
     "oncran": true
   },

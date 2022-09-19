@@ -43,11 +43,6 @@
 	url = https://github.com/privefl/inplace
 	shallow = true
 	registered = true
-[submodule "mmapcharr"]
-	path = mmapcharr
-	url = https://github.com/privefl/mmapcharr
-	shallow = true
-	registered = true
 [submodule "primefactr"]
 	path = primefactr
 	url = https://github.com/privefl/primefactr
