@@ -3,24 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bigassertr"]
-	path = bigassertr
-	url = https://github.com/privefl/bigassertr
-	shallow = true
-	registered = true
-[submodule "bigparallelr"]
-	path = bigparallelr
-	url = https://github.com/privefl/bigparallelr
-	shallow = true
-	registered = true
 [submodule "bigreadr"]
 	path = bigreadr
 	url = https://github.com/privefl/bigreadr
-	shallow = true
-	registered = true
-[submodule "bigsnpr"]
-	path = bigsnpr
-	url = https://github.com/privefl/bigsnpr
 	shallow = true
 	registered = true
 [submodule "bigsparser"]
@@ -28,24 +13,14 @@
 	url = https://github.com/privefl/bigsparser
 	shallow = true
 	registered = true
-[submodule "bigstatsr"]
-	path = bigstatsr
-	url = https://github.com/privefl/bigstatsr
+[submodule "rmio"]
+	path = rmio
+	url = https://github.com/privefl/rmio
 	shallow = true
 	registered = true
-[submodule "bigutilsr"]
-	path = bigutilsr
-	url = https://github.com/privefl/bigutilsr
-	shallow = true
-	registered = true
-[submodule "inplace"]
-	path = inplace
-	url = https://github.com/privefl/inplace
-	shallow = true
-	registered = true
-[submodule "mmapcharr"]
-	path = mmapcharr
-	url = https://github.com/privefl/mmapcharr
+[submodule "bigparallelr"]
+	path = bigparallelr
+	url = https://github.com/privefl/bigparallelr
 	shallow = true
 	registered = true
 [submodule "primefactr"]
@@ -53,13 +28,38 @@
 	url = https://github.com/privefl/primefactr
 	shallow = true
 	registered = true
-[submodule "rmio"]
-	path = rmio
-	url = https://github.com/privefl/rmio
+[submodule "inplace"]
+	path = inplace
+	url = https://github.com/privefl/inplace
+	shallow = true
+	registered = true
+[submodule "bigstatsr"]
+	path = bigstatsr
+	url = https://github.com/privefl/bigstatsr
+	shallow = true
+	registered = true
+[submodule "bigassertr"]
+	path = bigassertr
+	url = https://github.com/privefl/bigassertr
 	shallow = true
 	registered = true
 [submodule "runonce"]
 	path = runonce
 	url = https://github.com/privefl/runonce
+	shallow = true
+	registered = true
+[submodule "bigutilsr"]
+	path = bigutilsr
+	url = https://github.com/privefl/bigutilsr
+	shallow = true
+	registered = true
+[submodule "bigsnpr"]
+	path = bigsnpr
+	url = https://github.com/privefl/bigsnpr
+	shallow = true
+	registered = true
+[submodule "mmapcharr"]
+	path = mmapcharr
+	url = https://github.com/privefl/mmapcharr
 	shallow = true
 	registered = true

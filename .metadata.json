@@ -1,18 +1,6 @@
 [
   {
-    "package": "bigassertr",
-    "oncran": true
-  },
-  {
-    "package": "bigparallelr",
-    "oncran": true
-  },
-  {
     "package": "bigreadr",
-    "oncran": true
-  },
-  {
-    "package": "bigsnpr",
     "oncran": true
   },
   {
@@ -20,19 +8,11 @@
     "oncran": true
   },
   {
-    "package": "bigstatsr",
+    "package": "rmio",
     "oncran": true
   },
   {
-    "package": "bigutilsr",
-    "oncran": true
-  },
-  {
-    "package": "inplace",
-    "oncran": true
-  },
-  {
-    "package": "mmapcharr",
+    "package": "bigparallelr",
     "oncran": true
   },
   {
@@ -40,11 +20,31 @@
     "oncran": true
   },
   {
-    "package": "rmio",
+    "package": "inplace",
+    "oncran": true
+  },
+  {
+    "package": "bigstatsr",
+    "oncran": true
+  },
+  {
+    "package": "bigassertr",
     "oncran": true
   },
   {
     "package": "runonce",
+    "oncran": true
+  },
+  {
+    "package": "bigutilsr",
+    "oncran": true
+  },
+  {
+    "package": "bigsnpr",
+    "oncran": true
+  },
+  {
+    "package": "mmapcharr",
     "oncran": true
   }
 ]
